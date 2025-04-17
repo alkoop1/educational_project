@@ -2,18 +2,18 @@
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Описание-проекта)
-2. [Проблематика](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Проблематика)
-3. [Цели и задачи проекта](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Цели-и-задачи-проекта)
-4. [Результаты EDA](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Результаты-EDA)
-5. [Моделирование](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Моделирование)
-    * 5.1 [Сравнение моделей](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Сравнение-моделей)
-6. [Подготовка к созданию прототипа](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Подготовка-к-созданию-прототипа)
-7. [Создание прототипа](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Создание-прототипа)
-    * 7.1 [Инструкция по запуску](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Инструкция-по-запуску)
-8. [Требования к окружению](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Требования-к-окружению)
-9. [Заключение](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Заключение)
-10. [Дополнительно](https://github.com/alkoop1/educational_project/tree/master/educational_projects/project_7/README.md#Дополнительно)
+1. [Описание проекта](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Описание-проекта)
+2. [Проблематика](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Проблематика)
+3. [Цели и задачи проекта](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Цели-и-задачи-проекта)
+4. [Результаты EDA](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Результаты-EDA)
+5. [Моделирование](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Моделирование)
+    * 5.1 [Сравнение моделей](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Сравнение-моделей)
+6. [Подготовка к созданию прототипа](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Подготовка-к-созданию-прототипа)
+7. [Создание прототипа](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Создание-прототипа)
+    * 7.1 [Инструкция по запуску](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Инструкция-по-запуску)
+8. [Требования к окружению](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Требования-к-окружению)
+9. [Заключение](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Заключение)
+10. [Дополнительно](https://github.com/alkoop1/educational_project/blob/master/educational_projects/project_7/README.MD#Дополнительно)
 
 # **Описание проекта**
 
